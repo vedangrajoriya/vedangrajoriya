@@ -241,19 +241,6 @@ This allows me to work not only as an AI developer, but also as an **end-to-end 
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedangrajoriya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedangrajoriya&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vedangrajoriya&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 🏆 Certifications & Achievements
 
 - 🧠 **Deep Learning Essentials — IBM**
